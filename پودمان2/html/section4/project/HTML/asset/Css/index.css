@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contain{
+    margin: 0 auto;
+    width: 95%;
+}
+
+.backImg{
+    background-image: linear-gradient(rgba(128, 128, 128, 0.524), rgba(144, 136, 136, 0.593)) , url(../image/videoblocks-neon-light-online-shopping-selling-and-buying-retail-e-commerce-animation_b3ns8ik9v_thumbnail-1080_15.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+table{
+    
+    box-shadow: -15px 15px rgba(0, 0, 0, 0.339);
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    text-align: center;
+    border: 1px solid rgb(249, 245, 245);
+    border-collapse: separate;
+    background: linear-gradient(rgba(255, 255, 255, 0.43), rgba(128, 128, 128, 0.469));
+    /* border-radius: 50%; */
+     margin-top: 35px;
+    /* margin-left: 5%; */ 
+    
+}
+
+
+
+td{
+    margin: 5px;
+    /* border-radius: 20px; */
+    padding: 10px;
+    background: linear-gradient(rgba(0, 0, 0, 0.396), rgba(128, 128, 128, 0.225));
+    color: rgba(0, 0, 0, 0.877);
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    
+}
+
+td:hover{
+    margin: 5px;
+    /* border-radius: 20px; */
+    padding: 10px;
+    background: linear-gradient(rgba(255, 255, 255, 0.396), rgba(0, 0, 0, 0.225));
+    color: rgba(0, 0, 0, 0.877);
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    
+}
+
+.thg{
+    border-radius: 12px;
+    padding: 10px;
+    width: 20px;
+    /* height: 10px; */
+    background-color: rgba(144, 136, 136, 0.859);
+}
+
+.thg:hover{
+    border-radius: 12px;
+    padding: 10px;
+    width: 20px;
+    color: white;
+    /* height: 10px; */
+    background-color: rgba(0, 0, 0, 0.72);
+}
+
+.borderTop{
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    width: 200px;
+    height: 300px;
+
+}
+
+table tr td div .Ptitle{
+    border-bottom: 3px solid #ed06b3;
+    padding: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table tr td div input{
+    padding: 20px 30px;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.444);
+    color: white;
+    float: left;
+}
+
+table tr td div input:hover{
+    padding: 20px 30px;
+    border-radius: 15px;
+    float: left;
+    background-color: rgba(255, 255, 255, 0.557);
+    color: rgb(0, 0, 0);
+}
+
+.price{
+    padding: 5px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

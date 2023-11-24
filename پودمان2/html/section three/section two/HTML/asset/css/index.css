@@ -1,0 +1,29 @@
+.inputanduser{
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px 20px;
+}
+
+.btn{
+    background-color: #009190;
+    width: 200px;
+    height: 35px;
+    border-radius: 10px;
+    margin-left: 68px;
+    border: none;
+}
+
+.btn1{
+    background-color: #ff5c4c;
+    width: 200px;
+    height: 35px;
+    border-radius: 10px;
+    margin-left: 68px;
+    margin-top: 5px;
+    border: none;
+}
+
+.welcom{
+    margin-left: 60px;
+}

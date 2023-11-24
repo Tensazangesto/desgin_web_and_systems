@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    direction: rtl;
+    font-weight: bold;
+}
+
+menu{
+    padding: 60px;
+}
+menu p{
+    float: left;
+    display: inline-block;
+}
+
+menu ul{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+
+menu ul li {
+    text-decoration: none;
+    color: black;
+}
+
+menu ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+}
+
+
+
+
+menu ul li a:hover, svg path{
+    border-bottom: 3px solid red;
+    fill: red;
+}
+
+
+
+main img{
+    width: 100%;
+    height: auto;
+    transition: all 0.5s;
+}
+
+main img:hover{
+    filter: hue-rotate(298deg)
+}  
+
