@@ -1,0 +1,27 @@
+
+
+
+.inputer{
+    direction: rtl;
+    width: 260px;
+    height: 40px;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 4px;
+}
+
+
+.inputs button{
+    width: 150px;
+    height: 30px;
+    background-color: #00768A;
+    margin-top: 5px;
+    border-radius: 8px;
+}
+
+#pcheck{
+    font-size: 12px;
+    margin-left: 150px;
+    margin-top: 10px;
+
+}

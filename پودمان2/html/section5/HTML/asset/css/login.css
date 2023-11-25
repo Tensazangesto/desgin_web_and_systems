@@ -1,0 +1,24 @@
+
+.inputs{
+    margin-top: 50px;
+    
+}
+
+.inputs input{
+    direction: rtl;
+    width: 260px;
+    height: 40px;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.inputs button{
+    width: 150px;
+    height: 30px;
+    background-color: #00768A;
+    margin-top: 25px;
+    border-radius: 8px;
+}
+
+
